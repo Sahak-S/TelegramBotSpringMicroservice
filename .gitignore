@@ -1,0 +1,3 @@
+# Project exclude paths
+/common-eabbitmq/target/
+/dispatcher/target/
